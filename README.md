@@ -24,7 +24,10 @@ I enjoy crafting solutions that make technology simpler and more meaningful for 
 ### 🌐 Connect With Me
 <p align="center">
   <a href="https://github.com/satriapaksi12"><img src="https://skillicons.dev/icons?i=github" height="35" alt="GitHub"/></a>
-  <a href="https://linkedin.com/in/satria-buana-paksi](https://www.linkedin.com/in/satria-buana-paksi-28342b268/"><img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/></a>
+ <a href="https://www.linkedin.com/in/satria-buana-paksi-28342b268/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=linkedin" height="35" alt="LinkedIn"/>
+</a>
+
 </p>
 
 ---
